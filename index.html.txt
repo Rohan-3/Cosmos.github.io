@@ -1,5 +1,6 @@
 
-<!DOCTYPE> <h1 style="color:White;">rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrWelcome to Cosmos </h1> 
+<!DOCTYPE>
+<h1 style="color:White;">Welcome to Cosmos </h1> 
 <html>
 <head>
 <center> <h2style="border:2px solid Tomato;"><p style="color:red;">Everything about Cosmos</p></h2>
